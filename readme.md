@@ -1,5 +1,5 @@
 
-# BudPing
+# Vootel
 
 This is a real-time chat application built using the MERN stack. It allows users to send and receive messages in real-time and includes a variety of modern features for seamless communication.
 
